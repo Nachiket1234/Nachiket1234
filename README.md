@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/nachiket-doddamani/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/Nachiket_Doddamani/" target="_blank">
+<a href="https://leetcode.com/u/Nachiket_ND/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.codechef.com/users/sketchthewolf" target="_blank">
